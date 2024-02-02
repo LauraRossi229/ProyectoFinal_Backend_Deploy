@@ -1,0 +1,150 @@
+[31mfatal[39m: GET es /mockingproducts - 07:38:52
+[31mfatal[39m: GET es /mockingproducts - 07:38:52
+[31mfatal[39m: GET es /mockingproducts - 07:39:13
+[31mfatal[39m: GET es /mockingproducts - 07:39:13
+[31mfatal[39m: POST es /api/mockingproducts - 08:15:13
+[31mfatal[39m: POST es /api/mockingproducts - 08:15:13
+[31mfatal[39m: GET es /info - 09:36:56
+[31mfatal[39m: GET es /info - 09:36:56
+[34minfo[39m: Info
+[31mfatal[39m: GET es /debug - 09:39:00
+[31mfatal[39m: GET es /debug - 09:39:00
+[31mfatal[39m: GET es /warning - 09:40:35
+[31mfatal[39m: GET es /warning - 09:40:35
+[33mwarning[39m: Warning
+[33mwarning[39m: Warning
+[31mfatal[39m: GET es /error - 09:41:28
+[31mfatal[39m: GET es /error - 09:41:28
+[31mfatal[39m: GET es /error - 09:43:25
+[31mfatal[39m: GET es /error - 09:43:25
+[31merror[39m: Error
+[31merror[39m: Error
+[31mfatal[39m: GET es /fatal - 09:44:21
+[31mfatal[39m: GET es /fatal - 09:44:21
+[31mfatal[39m: Fatal
+[31mfatal[39m: Fatal
+[31mfatal[39m: GET es /loggerTest - 09:45:02
+[31mfatal[39m: GET es /loggerTest - 09:45:02
+[33mwarning[39m: Warning message
+[34minfo[39m: Info message
+[31merror[39m: Error message
+[33mwarning[39m: Warning message
+[31mfatal[39m: Fatal message
+[31merror[39m: Error message
+[31mfatal[39m: Fatal message
+[31mfatal[39m: POST es /api/register - 11:12:29
+[31mfatal[39m: POST es /api/register - 11:12:29
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:23:49
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:23:49
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:24:20
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:24:20
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:25:04
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:25:04
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:25:22
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:25:22
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:25:52
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:25:52
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:26:52
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:26:52
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:28:24
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:28:24
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:28:42
+[31mfatal[39m: POST es /api/sessions/login%0A - 11:28:42
+[31mfatal[39m: POST es /api/sessions/register%0A - 11:29:24
+[31mfatal[39m: POST es /api/sessions/register%0A - 11:29:24
+[31mfatal[39m: POST es /api/sessions/register%0A - 11:30:13
+[31mfatal[39m: POST es /api/sessions/register%0A - 11:30:13
+[31mfatal[39m: POST es /api/sessions/register%0A - 11:33:07
+[31mfatal[39m: POST es /api/sessions/register%0A - 11:33:07
+[31mfatal[39m: POST es /api/sessions/register%0A - 11:33:54
+[31mfatal[39m: POST es /api/sessions/register%0A - 11:33:54
+[31mfatal[39m: POST es /api/sessions/register%0A - 11:34:29
+[31mfatal[39m: POST es /api/sessions/register%0A - 11:34:29
+[31mfatal[39m: POST es /api/users/premium/657c614dc530e26581e76666 - 11:40:58
+[31mfatal[39m: POST es /api/users/premium/657c614dc530e26581e76666 - 11:40:58
+[31mfatal[39m: POST es /api/users/premium/657c614dc530e26581e76666 - 11:42:12
+[31mfatal[39m: POST es /api/users/premium/657c614dc530e26581e76666 - 11:42:12
+[31mfatal[39m: POST es /api/users/signup - 02:12:26
+[31mfatal[39m: POST es /api/users/signup - 02:12:26
+[31mfatal[39m: GET es /api/users/email/mailprueba@prueba - 02:12:26
+[31mfatal[39m: GET es /api/users/email/mailprueba@prueba - 02:12:26
+[31mfatal[39m: GET es /favicon.ico - 02:12:54
+[31mfatal[39m: GET es /favicon.ico - 02:12:54
+[31mfatal[39m: GET es /api/users/id/mailprueba@prueba - 17:29:23
+[31mfatal[39m: GET es /api/users/id/mailprueba@prueba - 17:29:23
+[31mfatal[39m: POST es /api/api/sessions/register - 18:31:36
+[31mfatal[39m: POST es /api/api/sessions/register - 18:31:36
+[31mfatal[39m: GET es /api/api/users - 18:31:37
+[31mfatal[39m: GET es /api/api/users - 18:31:37
+[31mfatal[39m: PUT es /api/api/users/undefined - 18:31:37
+[31mfatal[39m: PUT es /api/api/users/undefined - 18:31:37
+[31mfatal[39m: POST es /api/api/sessions/login - 18:31:37
+[31mfatal[39m: POST es /api/api/sessions/login - 18:31:37
+[31mfatal[39m: GET es /api/api/sessions/current - 18:31:37
+[31mfatal[39m: GET es /api/api/sessions/current - 18:31:37
+[31mfatal[39m: DELETE es /api/api/users/undefined - 18:31:37
+[31mfatal[39m: DELETE es /api/api/users/undefined - 18:31:37
+[31mfatal[39m: POST es /api/api/sessions/register - 18:32:44
+[31mfatal[39m: POST es /api/api/sessions/register - 18:32:44
+[31mfatal[39m: GET es /api/api/users - 18:32:44
+[31mfatal[39m: GET es /api/api/users - 18:32:44
+[31mfatal[39m: PUT es /api/api/users/undefined - 18:32:44
+[31mfatal[39m: PUT es /api/api/users/undefined - 18:32:44
+[31mfatal[39m: POST es /api/api/sessions/login - 18:32:44
+[31mfatal[39m: POST es /api/api/sessions/login - 18:32:44
+[31mfatal[39m: GET es /api/api/sessions/current - 18:32:44
+[31mfatal[39m: GET es /api/api/sessions/current - 18:32:44
+[31mfatal[39m: DELETE es /api/api/users/undefined - 18:32:44
+[31mfatal[39m: DELETE es /api/api/users/undefined - 18:32:44
+[31mfatal[39m: PUT es /api/products/:id/6587714816a0d3ae6aea74bf - 20:51:46
+[31mfatal[39m: PUT es /api/products/:id/6587714816a0d3ae6aea74bf - 20:51:46
+[31mfatal[39m: POST es /api/sessions/logout - 21:28:23
+[31mfatal[39m: POST es /api/sessions/logout - 21:28:23
+[31mfatal[39m: GET es /api/sessions/login - 21:49:15
+[31mfatal[39m: GET es /api/sessions/login - 21:49:15
+[31mfatal[39m: POST es /api/sessions/login%0A - 22:41:24
+[31mfatal[39m: POST es /api/sessions/login%0A - 22:41:24
+[31mfatal[39m: POST es /api/sessions/login%0A - 22:41:43
+[31mfatal[39m: POST es /api/sessions/login%0A - 22:41:43
+[31mfatal[39m: POST es /api/sessions/login%0A - 23:09:35
+[31mfatal[39m: POST es /api/sessions/login%0A - 23:09:35
+[31mfatal[39m: POST es /api/sessions/login%0A - 23:10:21
+[31mfatal[39m: POST es /api/sessions/login%0A - 23:10:21
+[31mfatal[39m: POST es /api/users/65a1f0b1163846317039d509 - 02:01:24
+[31mfatal[39m: POST es /api/users/65a1f0b1163846317039d509 - 02:01:24
+[31mfatal[39m: GET es /api/session/current - 16:18:23
+[31mfatal[39m: GET es /api/session/current - 16:18:23
+[31mfatal[39m: POST es /api/session/register - 16:18:53
+[31mfatal[39m: POST es /api/session/register - 16:18:53
+[31mfatal[39m: POST es /api/session/register - 16:31:39
+[31mfatal[39m: POST es /api/session/register - 16:31:39
+[31mfatal[39m: POST es /api/carts/65a494afa806c467f917b347/product/64fca7e15b100d5e10f55853 - 23:14:56
+[31mfatal[39m: POST es /api/carts/65a494afa806c467f917b347/product/64fca7e15b100d5e10f55853 - 23:14:56
+[31mfatal[39m: GET es /api/carts/65a494afa806c467f917b347/products - 23:38:29
+[31mfatal[39m: GET es /api/carts/65a494afa806c467f917b347/products - 23:38:29
+[31mfatal[39m: POST es /api/carts/65a49f7c2b0bd48129c7148f/checkout - 02:01:26
+[31mfatal[39m: POST es /api/carts/65a49f7c2b0bd48129c7148f/checkout - 02:01:26
+[31mfatal[39m: POST es /api/carts/65a605ee998771ceea5a53c4/purcharse - 03:12:29
+[31mfatal[39m: POST es /api/carts/65a605ee998771ceea5a53c4/purcharse - 03:12:29
+[31mfatal[39m: GET es /api/current - 02:22:57
+[31mfatal[39m: GET es /api/current - 02:22:57
+[31mfatal[39m: GET es /api/user/id - 02:30:42
+[31mfatal[39m: GET es /api/user/id - 02:30:42
+[31mfatal[39m: GET es /api/sessions/register - 04:18:28
+[31mfatal[39m: GET es /api/sessions/register - 04:18:28
+[31mfatal[39m: GET es /api/carts/id/65bb4ed3a0580c4d15c88987 - 05:19:38
+[31mfatal[39m: GET es /api/carts/id/65bb4ed3a0580c4d15c88987 - 05:19:38
+[31mfatal[39m: GET es /api/carts/65bb4ed3a0580c4d15c88987/65bb4ed3a0580c4d15c88987 - 05:19:52
+[31mfatal[39m: GET es /api/carts/65bb4ed3a0580c4d15c88987/65bb4ed3a0580c4d15c88987 - 05:19:52
+[31mfatal[39m: GET es /api/carts/65bb4ed3a0580c4d15c88987/products - 05:20:12
+[31mfatal[39m: GET es /api/carts/65bb4ed3a0580c4d15c88987/products - 05:20:12
+[31mfatal[39m: GET es /api/carts/65bb4ed3a0580c4d15c88987/Id - 05:20:21
+[31mfatal[39m: GET es /api/carts/65bb4ed3a0580c4d15c88987/Id - 05:20:21
+[31mfatal[39m: GET es /api/carts/65bbb396e4d2c77cd66c3078/64fcb27e4e10f176b4826194 - 13:09:22
+[31mfatal[39m: GET es /api/carts/65bbb396e4d2c77cd66c3078/64fcb27e4e10f176b4826194 - 13:09:22
+[31mfatal[39m: GET es /api/carts/65bbb396e4d2c77cd66c3078/id/64fcb27e4e10f176b4826194 - 13:09:37
+[31mfatal[39m: GET es /api/carts/65bbb396e4d2c77cd66c3078/id/64fcb27e4e10f176b4826194 - 13:09:37
+[31mfatal[39m: GET es /api/carts/657bcc0f8e7ab9d4c226ac7a/products/64fca7e15b100d5e10f55853 - 13:22:23
+[31mfatal[39m: GET es /api/carts/657bcc0f8e7ab9d4c226ac7a/products/64fca7e15b100d5e10f55853 - 13:22:23
+[31mfatal[39m: GET es /assets/icon.svg - 21:57:31
+[31mfatal[39m: GET es /assets/icon.svg - 21:57:31
