@@ -18,11 +18,15 @@ import loggerRouter from "./routes/logger.routes.js"
 import swaggerJSDoc from "swagger-jsdoc";
 import swaggerUiExpress from "swagger-ui-express";
 
-const whiteList = ["http://127.0.0.1:5173", "http://localhost:5173"];
+const whiteList = [
+  "http://127.0.0.1:5173",
+  "http://localhost:5173",
+  "https://main--splendid-treacle-f217a5.netlify.app"
+];
 
 const corsOptions = {
   origin: function (origin, callback) {
-    if (whiteList.indexOf(origin) != -1 || !origin) {
+    if (whiteList.indexOf(origin) !== -1 || !origin) {
       callback(null, true);
     } else {
       callback(new Error("Acceso Denegado"));
@@ -30,6 +34,7 @@ const corsOptions = {
   },
   credentials: true,
 };
+
 
 const app = express();
 const PORT = 8080;
